@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A relatively simple controller that can be used for both a small wood dryer and a bread proofer. Suitable for cases where temperature can vary by 1-2 degrees from the set point and where 100-200 watts of heating element power is sufficient. For my uses one to two incandescent lights bulbs will be the heating element.
+A relatively simple controller that can be used for both a small wood dryer and a bread proofer. Suitable for cases where temperature can vary by 1-2 degrees from the set point and where up to about 500 watts of heating element power is sufficient. For my uses one to two incandescent lights bulbs will be the heating element. The limitation on heating element power draw is really just based on the SSR used, it's heat management, and sizing of the mains wiring. In my case I am using a SSR rated at 25 amps; but no heat sink, which is why I am limiting it to 500 watts. For my uses 1-2 incandescent lights bulbs will be the heating element.
 
 ## Physical Architecture
 
