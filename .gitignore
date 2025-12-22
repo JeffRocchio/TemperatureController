@@ -1,1 +1,5 @@
 .obsidian
+hardware/ATTiny-Carrier-Board_KiCad/fp-info-cache
+hardware/*.tmp
+hardware/*.temp
+hardware/ATTiny-Carrier-Board_KiCad/TempSensor_ATTiny-Carrier-Board-backups/
