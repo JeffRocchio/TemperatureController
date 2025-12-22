@@ -2,6 +2,12 @@
 
 Decided to use an ATTiny to control an SSR. So I have, in effect, turned most of the circuit design into software.
 
+# References
+
+### Using KiCad for Perf-Board Layout
+
+See good article @ [https://forum.arduino.cc/t/perfboard-circuit-design-with-kicad/1283999](https://forum.arduino.cc/t/perfboard-circuit-design-with-kicad/1283999)
+
 # For Reference - Other Circuit Ideas
 
 ## Light Dimmer with triacs, using 110v instead of 220v
